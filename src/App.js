@@ -21,6 +21,7 @@ class App extends React.Component {
       <li>Remembers all your products</li>
       <li>Reminds you to buy this product</li>
       <li>Reminds you whenever the price of your product drops</li>
+      <li>It is working over sitles like amazon, myntra, flipkart etc</li>
     </ul>
     </header>
     </div>
